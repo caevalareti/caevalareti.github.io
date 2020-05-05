@@ -462,8 +462,8 @@ models:
         name: is_required
         label: Is the field required?
         default: false
-stackbit_banner:
-  show_banner: true
-  name: Fresh
-  create_url: 'https://app.stackbit.com/create?theme=fresh'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-fresh'
+#stackbit_banner:
+#  show_banner: true
+#  name: Fresh
+#  create_url: 'https://app.stackbit.com/create?theme=fresh'
+#  github_url: 'https://github.com/stackbithq/stackbit-theme-fresh'
