@@ -1,0 +1,62 @@
+baseurl: "/"
+title: "Stackbit Fresh Theme"
+page_load_js: "assets/js/main.js"
+params:
+  description: Personal blogging theme for Stackbit
+  layout_style: overflow
+  palette: blue
+  header:
+    title: "Carlos Valareti"
+    tagline: Data Science | Technology
+    profile_img: images/profile.jpg
+    background: dark
+    has_nav: true
+    nav_links:
+      - label: Home
+        url: /
+        type: link
+      - label: Blog
+        url: /blog/
+        type: link
+      - label: Resume
+        url: /resume/
+        type: link
+      - label: Contact
+        url: /contact/
+        type: link
+     
+    has_social: true
+    social_links:
+      - label: GitHub
+        url: https://github.com/caevalareti
+        type: icon
+        icon_class: fa-github
+        new_window: true
+      - label: LinkedIn
+        url: https://www.linkedin.com/caevalareti
+        type: icon
+        icon_class: fa-linkedin
+        new_window: true     
+      - label: Instagram
+        url: https://www.instagram.com/caevalareti
+        type: icon
+        icon_class: fa-instagram
+        new_window: true
+      - label: Medium
+        url: https://www.medium.com/caevalareti
+        type: icon
+        icon_class: fa-medium
+        new_window: true
+  footer:
+    content: "&copy; All rights reserved."
+    links:
+      - label: Made with Stackbit.
+        url: https://www.stackbit.com
+        type: link
+        new_window: true
+sass:
+  input_file: sass/main.scss.njk
+  output_file: assets/css/main.css
+  indentWidth: 4
+  outputStyle: nested
+  precision: 10
