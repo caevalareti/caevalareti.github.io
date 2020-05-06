@@ -2,7 +2,7 @@ baseurl: "/"
 title: "Carlos Valareti"
 page_load_js: "assets/js/main.js"
 params:
-  description: Python, data science and technology
+  description: Python, data science and technology.
   layout_style: overflow
   palette: blue
   header:
@@ -43,7 +43,7 @@ params:
         icon_class: fa-instagram
         new_window: true
       - label: Medium
-        url: https://www.medium.com/caevalareti
+        url: https://www.medium.com/@caevalareti
         type: icon
         icon_class: fa-medium
         new_window: true
