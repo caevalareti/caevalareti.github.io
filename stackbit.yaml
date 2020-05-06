@@ -13,8 +13,8 @@ metadata:
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
   images:
-    small: images/demo-256x192.png
-    large: images/demo-1024x768.png
+    small: 
+    large: 
 sourceMapping:
   - source:
       fieldPath: author.name
@@ -461,7 +461,7 @@ models:
       - type: boolean
         name: is_required
         label: Is the field required?
-        default: false
+        default: true
 #stackbit_banner:
 #  show_banner: true
 #  name: Fresh
