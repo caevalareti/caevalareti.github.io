@@ -2,7 +2,7 @@ baseurl: "/"
 title: "Carlos Valareti"
 page_load_js: "assets/js/main.js"
 params:
-  description: Personal blogging theme for Stackbit
+  description: Python, data science and technology
   layout_style: overflow
   palette: blue
   header:
