@@ -1,7 +1,5 @@
 # caevalareti.github.io
 
-A personal theme with a blog for Stackbit. [Live Demo](https://themes.stackbit.com/demos/fresh)
-
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fresh)
 
 ### Turn themes into CMS-powered websites
