@@ -1,4 +1,4 @@
-# caevalareti.now.sh/
+# caevalareti.github.io
 
 A personal theme with a blog for Stackbit. [Live Demo](https://themes.stackbit.com/demos/fresh)
 
