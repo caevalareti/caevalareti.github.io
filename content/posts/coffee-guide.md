@@ -1,5 +1,5 @@
 ---
-title: The complete coffee guide according to data
+title: What data can tell about your coffee?
 excerpt: >-
   Everybody loves coffee. But here is the question, which country has the best coffee beans in the world?
 date: 2020-05-09
