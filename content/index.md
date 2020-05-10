@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: |-
-      BA of Control Systems and Automation Engineering with solid background in calculus and algebra. I have passion for well designed and developed data solutions. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+      B.S. in Control Systems and Automation Engineering with solid background in calculus and algebra. I have passion for well designed and developed data solutions. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
     actions:
       - label: Contact Me
         url: "/contact"
