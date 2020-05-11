@@ -94,7 +94,7 @@ We can see that USA ranks the highest in 6 out of 10 areas of grading. And data 
 
 [AKA Chart available here.](https://raw.githubusercontent.com/caevalareti/caevalareti.github.io/master/static/images/coffee-hawaii.png)
 
-Robusta dataset was not so large as Arabica one. We made an observation with only 28 samples, compared to Arabica which was 1311 samples, is just a few. But here comes our analyses.
+Robusta dataset was not so large as Arabica one. We made an observation with only 28 samples, compared to Arabica which was 1311 samples, is just a few. But here comes our analysis.
 
 <div class="responsive-table">
   <table>
